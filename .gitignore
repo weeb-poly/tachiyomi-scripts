@@ -1,0 +1,10 @@
+.DS_Store
+
+.vscode
+
+.gradle
+**/build/
+!src/**/build/
+
+# Compiled class file
+*.class
