@@ -1,5 +1,9 @@
 syntax = "proto3";
 
+/* WARNING: This schema was created manually and is untested.
+ * It's recommended that you generate a new schema using the
+ * generateSchemaText function. */
+
 /*
  * Contains Models from:
  * - Tachiyomi (0.13.5)
